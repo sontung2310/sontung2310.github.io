@@ -4,7 +4,7 @@
 
 I'm a **Data Scientist** and **AI Engineer** currently pursuing my Master of Applied Artificial Intelligence at Deakin University with a High Distinction average (8.8/10). With 3 years of professional experience, I'm passionate about using data science and AI to solve real-world problems and create meaningful impact.
 
-🎓 **Currently:** Master of Applied AI 
+🎓 **Currently:** Master of Applied AI  
 💼 **Experience:** 3 years in data science, AI engineering, and analytics  
 🌍 **Location:** Melbourne, Victoria, Australia  
 📫 **Contact:** buisontung2310@gmail.com
@@ -58,10 +58,22 @@ I'm a **Data Scientist** and **AI Engineer** currently pursuing my Master of App
 - **Features:** Automated sentiment tracking, theme extraction, stakeholder reporting
 - **Github:** `https://github.com/sontung2310/Sentiment-Analysis-in-Healthcare.git`
 
-### 📱 Social Media Analytics Pipeline
-- **Tech Stack:** Python, SQL, Apache Airflow, Power BI, Web Scraping
+### 🧋 AI-Agent: Bubble Tea Sales
+
+- **Tech Stack**: LangGraph, Gemini API, Gradio
+- **Impact:**: Intelligent sales automation with conversational ordering experience
+- **Features:** Menu display, personalized drink consultation, order management (add/remove items), size/ice/sugar/topping customization, real-time order tracking
+
+### 💻 Smart E-commerce Laptop Recommendation ChatBot
+
+- **Tech Stack:** Large Language Models, Voice Recognition, Retrivel-Augmentation Generation, Conversational AI
+- **Impact:**: Personalized product recommendations with multi-modal interaction
+- **Features:** Intelligent laptop recommendations based on user requirements, product suitability explanations, casual conversation capabilities, text and voice interaction support
+
+### 📱 Social Media Listening
+- **Tech Stack:** Python, SQL, Spark, Apache Kafka, Power BI, Web Scraping
 - **Impact:** Automated end-to-end data processing for social media insights
-- **Features:** Real-time data ingestion, sentiment analysis, trend detection
+- **Features:** Real-time data ingestion, Sentiment analysis, Keyword and Hashtag Tracking, Influencer Tracking.
 
 
 ## 🏆 Certifications
@@ -81,9 +93,9 @@ I'm a **Data Scientist** and **AI Engineer** currently pursuing my Master of App
 
 I'm always interested in collaborating on data science and AI projects, especially those with social impact. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sontung2310/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:buisontung2310@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/sontung2310)
 
 ---
 
