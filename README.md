@@ -73,7 +73,7 @@ I'm a **Data Scientist** and **AI Engineer** currently pursuing my Master of App
 ### 📱 Social Media Listening
 - **Tech Stack:** Python, SQL, Spark, Apache Kafka, Power BI, Web Scraping
 - **Impact:** Automated end-to-end data processing for social media insights
-- **Features:** Real-time data ingestion, Sentiment analysis, Keyword and Hashtag Tracking, Influencer Tracking.
+- **Features:** Real-time data ingestion, Sentiment analysis, Keyword and Hashtag Tracking, Influencer Tracking
 
 
 ## 🏆 Certifications
