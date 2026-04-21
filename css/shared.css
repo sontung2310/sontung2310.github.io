@@ -1,0 +1,61 @@
+/* ===== Shared CSS Variables and Utilities ===== */
+/* This file contains common styles used across pages */
+
+/* CSS Variables */
+:root {
+    /* Primary Colors */
+    --primary-color: #B3CEE5;   /* soft steel blue — your base */
+    --secondary-color: #6A9EC0; /* mid-tone blue — darker for depth/hover states */
+    --accent-color: #D9EAFA;
+    /* High-contrast text/icons on primary or light blue surfaces (WCAG-friendly) */
+    --interactive-text: #1e3a5f;
+
+    /* Text Colors */
+    --text-color: #1f2937;
+    --text-light: #6b7280;
+
+    /* Background Colors */
+    --bg-color: #f9fafb;
+    --white: #ffffff;
+    --dark: #111827;
+    --bg-light: #f9fafb;
+    --bg-dark: #111827;
+    --border-color: #e5e7eb;
+
+    /* Shadows */
+    --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+
+    /* Transitions */
+    --transition-fast: 0.15s ease;
+    --transition-normal: 0.3s ease;
+    --transition-slow: 0.5s ease;
+}
+
+/* Global Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* Common Utility Classes */
+.hidden {
+    display: none !important;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Font Awesome Icons - Ensure consistency */
+.fas, .fab {
+    font-family: 'Font Awesome 6 Free', 'Font Awesome 6 Brands';
+    font-weight: 900;
+}

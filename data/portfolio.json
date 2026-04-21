@@ -1,0 +1,213 @@
+{
+    "personal": {
+      "name": "Tony Bui",
+      "title": "AI/ML Engineer & Agentic AI Specialist",
+      "description": "Building AI applications that help people simplify their everyday work and create meaningful impact",
+      "email": "buisontung2310@gmail.com",
+      "phone": "0452310495",
+      "location": "Melbourne, Victoria, Australia",
+      "linkedin": "https://www.linkedin.com/in/sontung2310",
+      "github": "https://github.com/sontung2310",
+      "cv": "assets/documents/AI Engineer-Resume-Tony Bui.pdf",
+      "portrait": "assets/images/portrait.jpg"
+    },
+    "about": {
+      "paragraphs": [
+        "My name is Tony, and I am an AI/ML Engineer with over three years of experience and strong research capabilities. I recently graduated from Deakin University with a Master’s degree in Applied Artificial Intelligence, where I achieved a High Distinction average.",
+        "Throughout my career, I have focused on translating real business problems into scalable AI solutions, delivering projects across domains such as AI agent architectures, generative AI, and computer vision systems. I care deeply about bridging the gap between research and production by building AI solutions that are both technically robust and commercially impactful. What motivates me most is developing AI applications that simplify everyday work, create positive user experiences, and deliver meaningful impact at scale."
+        ],
+      "highlights": [
+        {
+          "icon": "fas fa-robot",
+          "title": "Agentic AI",
+          "description": "Multi-Agent Systems & LLM Workflows"
+        },
+        {
+          "icon": "fas fa-rocket",
+          "title": "MLOps",
+          "description": "Production-ready AI Systems"
+        },
+        {
+          "icon": "fas fa-eye",
+          "title": "Computer Vision",
+          "description": "YOLO, Edge Deployment & Visual AI"
+        }
+      ]
+    },
+    "experience": [
+      {
+        "title": "AI Engineer – Team Leader",
+        "company": "Databytes | Capstone Project",
+        "location": "Melbourne, Victoria, Australia",
+        "period": "Feb 2025 – Jun 2025",
+        "responsibilities": [
+          "Built a real-time sentiment analysis pipeline using an on-premise LLM to automatically classify patient reviews and route them to relevant departments, reducing issue resolution time",
+          "Fine-tuned LLMs on the Drug Review Sentiment Analysis Dataset, achieving a 20% F1-score improvement over the baseline model",
+          "Developed real-time automated monitoring dashboards to track customer sentiment and enable rapid issue resolution"
+        ]
+      },
+      {
+        "title": "AI Engineer",
+        "company": "ELCOM CORP (Top 10 ICT Company in Vietnam)",
+        "location": "Hanoi, Vietnam",
+        "period": "Apr 2022 – Feb 2024",
+        "responsibilities": [
+          "<strong>Intelligent Transport Systems (ITS):</strong> Implemented and deployed YOLO-based ML models for traffic violation detection and electronic toll collection across Vietnam's national highway network, processing 1M+ vehicles daily",
+          "Optimized model inference using TensorRT and ONNX for edge deployment, achieving real-time processing speeds of 30+ FPS on embedded devices",
+          "<strong>Agentic AI Sales Assistants:</strong> Delivered on-premises Agentic AI Sales Assistants using grounded RAG and data governance controls, enabling secure, accurate domain-specific knowledge retrieval while minimizing hallucinations",
+          "Built scalable vector database infrastructure using ElasticSearch for domain-specific knowledge retrieval; received strong client recognition for reducing manual document search time and improving user satisfaction",
+          "<strong>Social Listening Analytics Platform:</strong> Architected a real-time Social Listening system processing 5K+ posts daily from 5+ social platforms using Apache Kafka and Spark, delivering actionable insights through Power BI dashboards",
+          "Empowered government agencies to monitor social media, enabling rapid detection and response to misinformation and other social threats"
+        ]
+      },
+      {
+        "title": "AI Engineer",
+        "company": "Samsung Display Vietnam",
+        "location": "Hanoi, Vietnam",
+        "period": "Dec 2020 – Apr 2022",
+        "responsibilities": [
+          "Led a team of 4 engineers developing deep learning solutions for automated defect detection in Samsung's mobile display manufacturing; deployed Transfer Learning-based UNet and YOLO models on edge devices achieving 95% accuracy",
+          "Reduced manufacturing costs by 80% by minimizing false positives and replacing manual inspection processes across production lines",
+          "Optimized models for real-time edge deployment using TensorRT"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "title": "Research Assistant",
+        "institution": "Deakin University",
+        "location": "Melbourne, VIC",
+        "period": "Feb 2025 – Feb 2026",
+        "responsibilities": [
+          "Developed a Generative AI pipeline combining LISA (Vision-Language Model) for automated segmentation and Stable Diffusion with DreamBooth for synthetic dataset generation",
+          "Replaced manual data collection processes, boosting wildlife detection model performance by 15% on the SAWIT dataset through generative data augmentation"
+        ]
+      },
+      {
+        "title": "Research Assistant",
+        "institution": "VNU University of Engineering and Technology",
+        "location": "Hanoi, Vietnam",
+        "period": "Feb 2019 – Feb 2021",
+        "responsibilities": [
+          "Developed AI-powered smart camera applications for object detection and tracking; implemented DeepSORT for multi-object tracking and OCR for license plate recognition achieving 88% accuracy in traffic monitoring systems",
+          "Designed a chromosome classification model achieving 94% accuracy on a collected karyotype imaging dataset to support early disease detection"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master of Applied Artificial Intelligence (Professional)",
+        "institution": "Deakin University",
+        "institutionShort": "Deakin",
+        "location": "Melbourne, VIC, Australia",
+        "period": "Feb 2024 – Oct 2025",
+        "gpa": "High Distinction Average",
+        "details": [
+          "GPA: High Distinction Average",
+          "Student Ambassador at Deakin Open Day 2024"
+        ]
+      },
+      {
+        "degree": "Bachelor of Engineering – Electronics and Telecommunications",
+        "institution": "VNU University of Engineering and Technology",
+        "institutionShort": "VNU-UET",
+        "location": "Hanoi, Vietnam",
+        "period": "Feb 2017 – Apr 2021",
+        "gpa": "Top 1st University in Vietnam",
+        "details": [
+          "Faculty of Engineering Scholarship and POSTECH Scholarship by Samsung Display Vietnam",
+          "First Prize at Student Research Contest 2021"
+        ]
+      }
+    ],
+    "skills": {
+      "Programming Languages": ["Python", "C/C++", "Java", "SQL"],
+      "Agentic AI & LLMs": ["Agentic AI Workflows", "Multi-Agent Systems", "MCP", "RAG", "LangGraph", "CrewAI", "vLLM", "Prompt Engineering"],
+      "Computer Vision": ["YOLO", "DeepSORT", "Transfer Learning", "TensorRT", "ONNX", "OpenCV", "Edge Deployment"],
+      "MLOps & Cloud": ["Azure", "Docker", "Kubernetes", "Jenkins", "CI/CD Pipelines", "REST APIs", "Grafana", "Prometheus"],
+      "Data Engineering": ["Apache Kafka", "Apache Spark", "Apache Airflow", "Data Pipelines", "Feature Engineering"],
+      "Databases": ["MySQL", "PostgreSQL", "MongoDB", "ElasticSearch", "Vector Databases"]
+    },
+    "projects": [
+      {
+        "title": "AI Learning Companion Platform",
+        "icon": "fas fa-graduation-cap",
+        "image": "assets/images/ai_leaning_companion.png",
+        "description": "Production-grade RAG system enabling LLM-powered Q&A across course materials. Processes lecture videos and text with automated embedding generation, vector retrieval, safety guardrails, and full CI/CD deployment to Azure Kubernetes Service.",
+        "detailedPoints": [
+          "Built production-grade RAG system enabling LLM-powered Q&A across course materials; processes lecture videos and text with automated embedding generation and vector retrieval using ChromaDB",
+          "Implemented automated data ingestion pipeline with Airflow for continuous content processing; integrated NVIDIA NeMo Guardrails for safety compliance and Langfuse for observability",
+          "Deployed end-to-end CI/CD pipeline using Jenkins with automated build, test, and code quality checks; containerized with Docker Compose and released to Azure Kubernetes Service with production monitoring"
+        ],
+        "techStack": ["CrewAI", "ChromaDB", "LiteLLM", "Redis", "Guardrails", "Langfuse", "FastAPI", "Airflow", "Docker", "AKS"],
+        "link": "https://github.com/sontung2310/Course-Learning-Companion",
+        "duration": "2024 – 2025"
+      },
+      {
+        "title": "AI-based Video Analysis for Traffic Monitoring",
+        "icon": "fas fa-video",
+        "image": "assets/images/synopsis.png",
+        "description": "Comprehensive traffic monitoring system with vehicle detection, multi-object tracking, and attribute extraction (class, color, direction, license plate). Published at APSIPA ASC 2022.",
+        "detailedPoints": [
+          "Built comprehensive traffic monitoring system with vehicle detection, tracking, and attribute extraction including class, color, direction, and license plate",
+          "Implemented DeepSORT for multi-object tracking and OCR for license plate recognition with 88% accuracy",
+          "Developed search functionality enabling queries by vehicle attributes and automated video summarization, reducing manual review time by 75%"
+        ],
+        "techStack": ["YOLO", "DeepSORT", "OCR", "Python", "OpenCV"],
+        "link": "https://github.com/sontung2310/Video-Synopsis",
+        "duration": "2021 – 2022"
+      }
+    ],
+    "publications": [
+      {
+        "title": "AI-based Video Analysis for Traffic Monitoring",
+        "venue": "APSIPA ASC 2022",
+        "location": "Chiang Mai, Thailand",
+        "doi": "10.23919/APSIPAASC55919.2022.9979947",
+        "url": "https://doi.org/10.23919/APSIPAASC55919.2022.9979947",
+        "abstract": "Video data from these surveillance cameras is extremely huge. When it requires extracting information about an object or event from the surveillance camera without knowing the exact time, it is very challenging to immediately identify it from billions of video frames. Thus, how to effectively extract information from video surveillance has a strategically important role in practical applications. In this paper, we introduce a system to manage and retrieve surveillance videos based on the indexing of moving objects. The system contains object detection and features extraction, video indexing, retrieval processing mechanism, and fast previewing. Specifically, this system uses information from moving objects to index video content. As a result, in the retrieval phase, the system allows both text-based query and image-based query mechanisms. The system performance are evaluated on traffic surveillance videos and got promising results.",
+        "contributions": [
+          "Introduction of an analysis and indexing system for surveillance video based on deep learning algorithms",
+          "A summary video creation algorithm from retrieved frames when we make a query on the videos database",
+          "Evaluate the performance of the video indexing system on real datasets"
+        ]
+      }
+    ],
+    "certificates": [
+      {
+        "title": "Microsoft Certified: Azure AI Engineer Associate",
+        "code": "AI-102",
+        "issuer": "Microsoft",
+        "credential": "https://learn.microsoft.com/api/credentials/share/en-us/SONTUNGBUI-3064/5796AE90C30E04A3?sharingId=7D8A24806997805F"
+      },
+      {
+        "title": "Microsoft Certified: Azure AI Fundamentals",
+        "code": "AI-900",
+        "issuer": "Microsoft"
+      },
+      {
+        "title": "Agentic AI & AI Agents in LangGraph",
+        "code": null,
+        "issuer": "DeepLearning.AI",
+        "credential": "https://learn.deeplearning.ai/certificates/a2d536ee-0cf7-4534-b903-5a2a4c7bc8d7"
+      }
+    ],
+    "references": [
+    {
+      "name": "Dr. Duc Thanh Nguyen",
+      "title": "Senior Lecturer, School of Information Technology",
+      "organization": "Deakin University",
+      "email": "duc.nguyen@deakin.edu.au",
+      "relationship": "Academic Advisor and Professor",
+      "icon": "fas fa-user-graduate"
+    },
+    {
+      "name": "Andrew Vo",
+      "title": "AI Engineer | PhD in Computer Science",
+      "organization": "Elek Software | University of Technology Sydney",
+      "email": "KhacHiep.Vo@uts.edu.au",
+      "relationship": "Mentor",
+      "icon": "fas fa-user-tie"
+    }
+  ]
+  }
