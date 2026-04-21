@@ -522,7 +522,15 @@ function renderPortfolio(data) {
     // Hero
     setText('.hero-subtitle', personal?.title || '');
     setText('.hero-description', personal?.description || '');
-    setAttr('.hero-buttons-row a.btn-secondary', 'href', personal?.cv || '');
+    const cvHref = (() => {
+        const raw = String(personal?.cv || '').trim();
+        if (!raw) return '';
+        // If the URL already has a query string, keep it as-is.
+        if (raw.includes('?')) return raw;
+        const version = String(personal?.cvVersion || '').trim();
+        return version ? `${raw}?v=${encodeURIComponent(version)}` : raw;
+    })();
+    setAttr('.hero-buttons-row a.btn-secondary', 'href', cvHref);
 
     // Social links (hero + footer)
     const mailto = personal?.email ? `mailto:${personal.email}` : '';
