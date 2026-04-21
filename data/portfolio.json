@@ -140,8 +140,7 @@
           "Deployed end-to-end CI/CD pipeline using Jenkins with automated build, test, and code quality checks; containerized with Docker Compose and released to Azure Kubernetes Service with production monitoring"
         ],
         "techStack": ["CrewAI", "ChromaDB", "LiteLLM", "Redis", "Guardrails", "Langfuse", "FastAPI", "Airflow", "Docker", "AKS"],
-        "link": "https://github.com/sontung2310/Course-Learning-Companion",
-        "duration": "2024 – 2025"
+        "link": "https://github.com/sontung2310/Course-Learning-Companion"
       },
       {
         "title": "AI-based Video Analysis for Traffic Monitoring",
@@ -154,8 +153,7 @@
           "Developed search functionality enabling queries by vehicle attributes and automated video summarization, reducing manual review time by 75%"
         ],
         "techStack": ["YOLO", "DeepSORT", "OCR", "Python", "OpenCV"],
-        "link": "https://github.com/sontung2310/Video-Synopsis",
-        "duration": "2021 – 2022"
+        "link": "https://github.com/sontung2310/Video-Synopsis"
       }
     ],
     "publications": [

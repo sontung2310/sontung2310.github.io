@@ -658,7 +658,6 @@ function renderPortfolio(data) {
             const icon = p?.icon || 'fas fa-code';
             const image = p?.image || '';
             const title = p?.title || '';
-            const duration = p?.duration || '';
             const description = p?.description || '';
             const techStack = Array.isArray(p?.techStack) ? p.techStack : [];
             const link = p?.link || '';
@@ -672,7 +671,6 @@ function renderPortfolio(data) {
                     </div>
                     <div class="project-content">
                         <h3>${escapeHTML(title)}</h3>
-                        ${duration ? `<p><strong>${escapeHTML(duration)}</strong></p>` : ''}
                         <p>${escapeHTML(description)}</p>
                         ${techStack.length ? `
                             <div class="project-tech">
